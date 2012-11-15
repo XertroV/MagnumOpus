@@ -1,0 +1,104 @@
+notes from Facebook:
+
+Pawel:
+Social sustainability we gotta include that in the paper
+"is preserving social status quo always desirable?"
+
+01:46
+Max Kaye
+Excellent idea!
+
+02:22
+Max Kaye
+The more homogenous society gets the less government needs to interfere to maintain justice and order. When society becomes more unequal more regulation and intervention is needed (therefore, small government needs educated people and as limited an upper class as possible)
+just an idea I had
+I think it needs to go in the paper (though must, of course be explored more)
+
+02:26
+Paweł Dudek
+We would ve to deal if counter argument of preserving ss many cultures as possible cos their ways may become useful in the future
+Sort of the same argument as for preserving as many species as possible.cos their genes may b useful in the future
+
+04:31
+Paweł Dudek
+mkay3730@uni.sydney.edu.au send u those files at that address
+2 November
+
+12:24
+Max Kaye
+Done, sent them back (from max.kaye@gmail.com)
+
+13:00
+Paweł Dudek
+Thx
+2 November
+
+22:14
+Max Kaye
+we need to collect sources like this to use in favour of our arguments: http://americablog.com/2012/11/computer-glitch-votes-black-florida-county-election-fraud.html
+8 November
+
+11:40
+Max Kaye
+Just to record this, we should also talk about how the hansard (australia's collection of books detailing all legislation) should use versioning software (look at github, where i'd like Magnum Opus to be hosted for us) so that it is accessible all the time, it's managed, bills are pull requests (i.e. someone asks for a change)
+
+11:56
+Paweł Dudek
+Kk don't really understand it but u ll explain it later, I guess its good idea to put here anything just for a record
+
+11:59
+Max Kaye
+I'll setup a github repo soon and teach you how to use it. Till then this will have to do
+
+12:00
+Paweł Dudek
+I think I ll move out to ultimo btw its pretty sick 20 min walk from uni.
+
+12:02
+Max Kaye
+Yeah, that'd be a nice place to live, very convenient. Let me know when you find a place.
+
+12:03
+Paweł Dudek
+I ve found it I'm waiting for a transfer to put deposit on.
+
+12:03
+Max Kaye
+Sweet!
+8 November
+
+23:00
+Max Kaye
+Hey Dude,
+Register an account on this site: https://github.com
+and let me know what your username is - I'll add you to the magnum opus contributors list so we can start recording ideas.
+This site uses this thing called git with is really powerful versioning software. I'm still learning how to use it myself, but it's way, WAY more powerful than google docs.
+
+GitHub · Social Coding
+github.com
+Git is an extremely fast, efficient, distributed version control system ideal for the collaborative development of software.
+
+23:10
+Paweł Dudek
+Cool i ll do it tomorrow n ll start.working on it soon!
+Wednesday
+
+07:54
+Max Kaye
+I feel like one of the things we really need to do with magnum opus is set down some fundamentals of government we (as in the world) can agree on
+my suggestions: (came to me in a dream, srsly)
+1. never police the innocent
+2. from good actions come good values
+3. Where possible, do not govern
+it might be better to put 3 down as: where possible, avoid governance.
+What I mean by that is don't interfere if it isn't necessary
+Wednesday
+
+14:05
+Max Kaye
+Also, we should talk about the inherent inconsistencies of the 'user pays' idea
+Today
+
+08:57
+Max Kaye
+Even if a law isn't in and of itself racist or prejudice, we should be careful not to allow laws that facilitate the precipitation of latent racism (i.e.: don't make laws that let police be racist, like most drug convictions in the us being for black people, even though drug use is pretty uniform)
